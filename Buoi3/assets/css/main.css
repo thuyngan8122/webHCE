@@ -1,0 +1,57 @@
+.pHeader{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.8em;
+    color: brown;
+
+}
+.imgLang{
+    height: 15px;
+}
+.homeContent {
+    border: 1px solid red;
+    margin: 10px;
+    padding: 15px;
+}
+.TinNoiBat{
+   font-size: 0.9em;;
+}
+.divFooter{
+    padding: 10px;
+    background-color: brown;
+    color: rgb(255,255,255);
+    margin-top: 25px;
+    margin-left: 10px;
+}
+.nav-link{
+    color: white;
+    border-bottom: yellow;
+}
+.navbar-brand{
+    color: white;
+}
+.navbar{
+    background-color: #b01116;
+    padding : 0;
+}
+.dropdown-menu{
+    background-color: #b01116;
+}
+.dropdown-item{
+    color: white;
+}
+.dropdown-item:hover
+{
+background-color: yellow;
+}
+a.nav-link.dropdown-toggle:hover{
+    color: black;
+    background-color: yellow;
+}
+.navbar-brand:hover{
+    background-color: yellow;
+    color: black;
+}
+.footer-group.social-profile-icons>ul{
+    list-style-type: none;
+    display: inline;
+}
